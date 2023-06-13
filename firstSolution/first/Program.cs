@@ -10,3 +10,6 @@ Console.WriteLine("Hello, b!");
 Console.WriteLine("Hello, a!");
 Console.WriteLine("Hello, b!");
 Console.WriteLIne("Maheshs");
+Console.WriteLine("Mast hai re");
+Console.WriteLine("Mast");
+
