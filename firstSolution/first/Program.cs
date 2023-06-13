@@ -6,4 +6,5 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, a!");
 Console.WriteLine("Hello, b!");
 Console.WriteLine("Mast hai re");
+Console.WriteLine("Mast");
 
